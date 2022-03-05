@@ -1,4 +1,5 @@
 # Binary-Search-Tree-Projesi
+
          5
         / \
        4   7
